@@ -43,6 +43,7 @@ return array
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array=[1,2,3]){
-  array= array.slice(1)
- return array 
+  
+  
+  
 }
