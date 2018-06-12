@@ -66,6 +66,7 @@ return array
   
   function removeElementFromEndOfArray(array=[1,2,3]){
     array.slice(0, array.length - 1) 
-    return 1, 2
+    console.log(array)
+    return array
     
   }
