@@ -49,4 +49,6 @@ console.log(array);
 return array
   }
   
-  function 
+  function removeElementFromBeginningOfArray(array=[1,2,3]){
+    
+  }
