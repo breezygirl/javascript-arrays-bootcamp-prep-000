@@ -29,7 +29,7 @@ return array2
   }
 
 function accessElementInArray( array, index)
-{ console.log(accessElementInArray[3])
+{ 
 }
 
 
