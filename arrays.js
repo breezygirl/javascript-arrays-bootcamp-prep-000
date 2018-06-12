@@ -64,4 +64,4 @@ return array
   return array
   }
   
-  function removeElementFromEndOfArray
+  function removeElementFromEndOfArray()
