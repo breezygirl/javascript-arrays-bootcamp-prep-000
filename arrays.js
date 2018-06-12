@@ -58,6 +58,8 @@ return array
     return array
     
   }
-  function destructivelyRemoveElementFromEndOfArray(array=[1,2,1
-  array.push])
-  
+  function destructivelyRemoveElementFromEndOfArray(array=[1,2,3])
+  {
+  array.pop()
+  return array
+  }
