@@ -39,7 +39,7 @@ return 3
 function destructivelyRemoveElementFromBeginningOfArray(array=[1,2,3]){ 
  array.shift() 
 
-return array[0][1]
+return array
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array=[1,2,3]){
