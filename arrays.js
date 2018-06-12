@@ -50,5 +50,6 @@ return array
   }
   
   function removeElementFromBeginningOfArray(array=[1,2,3]){
-    
+    array.slice(1)
+    return array
   }
