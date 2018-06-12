@@ -70,8 +70,6 @@ return array
     
     return [1,2]
   
-    
-    
   }
   
   
