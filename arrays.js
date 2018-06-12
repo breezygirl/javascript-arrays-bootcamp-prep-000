@@ -53,4 +53,7 @@ return array
     array.slice(1)
     return array
   }
-  function removeElementFromBeginningOfArray
+  function removeElementFromBeginningOfArray(array=[1,2,3]){
+    array = array(1)
+    
+  }
