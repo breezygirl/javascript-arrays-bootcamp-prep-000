@@ -29,10 +29,10 @@ return array2
   }
 
 function accessElementInArray( array, index)
-{ array = ["a",["b","c"]]
+{ array = [1,[2,3]]
  array[1][0]
 
-return "b"
+return 3
 }
 
 
