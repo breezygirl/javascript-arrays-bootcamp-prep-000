@@ -32,7 +32,7 @@ function accessElementInArray( array, index)
 { array = ["a",["b","c"]]
  array[1][0]
 
-return b
+return "b"
 }
 
 
