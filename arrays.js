@@ -46,6 +46,6 @@ function destructivelyRemoveElementFromBeginningOfArray(array=[1,2,3]){
   array.shift()
 
 console.log(array); 
-return 2,3
+return array
   
 }
