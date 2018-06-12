@@ -58,5 +58,6 @@ return array
     return array
     
   }
-  function 
+  function destructivelyRemoveElementFromEndOfArray(array=[1,2,1
+  array.push])
   
