@@ -65,7 +65,7 @@ return array
   }
   
   function removeElementFromEndOfArray(array=[1,2,3]){
-    array =array.pop()
+    array4 =array.pop()
     return array
     
   }
