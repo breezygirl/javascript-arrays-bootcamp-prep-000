@@ -29,7 +29,8 @@ return array2
   }
 
 function accessElementInArray( array, index)
-{ 
+{ a = ["a",["b","c"]]
+
 }
 
 
